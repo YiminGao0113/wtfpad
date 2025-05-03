@@ -140,7 +140,8 @@ for site in range(0, NO_CLASSES):
         for x in f:
             x = x.split("\t")
             times.append(float(x[0]))
-            sizes.append(int(x[1]))
+            # sizes.append(int(x[1]))
+            sizes.append(int(float(x[1])))
         f.close()
 
         #Extract features. All features are non-negative numbers or X. 
