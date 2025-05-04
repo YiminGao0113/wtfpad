@@ -17,42 +17,13 @@ We extend the original WTF-PAD implementation by:
 
 ---
 
-## Quick Reference
-
-```bash
-$ python src/main.py -h
-usage: main.py [-h] [-c <config name>] [--log <log path>] [--log-level <log level>] <traces path>
-```
-
-### Basic Workflow
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/YiminGao0113/wtfpad.git
-    ```
-
-2. Install requirements:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run simulation with a specific padding configuration:
-    ```bash
-    python src/main.py -c normal_rcv data/closed-world-original
-    ```
-
-4. Output will be saved in:
-    ```
-    results/<config name>_<timestamp>/
-    ```
-
----
+Original repo is here: https://github.com/wtfpad/wtfpad
 
 ## Reproduce Our Evaluation
 
 ### 1. Environment and Dataset
 
-- Follow the top-level `README` for environment setup.
+- Follow the top-level [`README`](https://github.com/wtfpad/wtfpad) for environment setup.
 - Download the closed-world dataset (100 websites × 33 visits each) using instructions in `data/README`.
 - Unzip the dataset under `data/`.
 
