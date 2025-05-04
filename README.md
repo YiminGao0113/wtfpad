@@ -1,6 +1,5 @@
 # WTF-PAD (Extended) for Network Security Class Project
 
-![DISCLAIMER](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/40px-Dialog-warning-orange.svg.png "experimental")  
 **Experimental – for research use only. Use with caution.**
 
 This repository contains the source code to simulate [WTF-PAD](https://homes.esat.kuleuven.be/~mjuarezm/index_files/pdf/esorics16.pdf) and reproduce the results from:
