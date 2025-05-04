@@ -1,4 +1,4 @@
-# WTF-PAD (Extended)
+# WTF-PAD (Extended) for Network Security Class Project
 
 ![DISCLAIMER](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dialog-warning-orange.svg/40px-Dialog-warning-orange.svg.png "experimental")  
 **Experimental – for research use only. Use with caution.**
@@ -154,9 +154,8 @@ Original WTF-PAD authors:
 
 Extended ML evaluation and automation by:
 - Yimin Gao — ML model integration, dataset preparation
-- Zhenghong [Last Name] — Padding configuration design
+- Zhenghong Chen — Padding configuration design
 
-Both authors contributed to the experiments, analysis, presentation, and final report.
 
 ---
 
