@@ -129,4 +129,4 @@ Extended ML evaluation and automation by:
 
 ---
 
-📌 For further details, see our class report and the figures in the `fig/` directory.
+📌 For further details, see our class report and the figures in the `report/` directory.
